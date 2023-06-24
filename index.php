@@ -1,5 +1,5 @@
 <?php
 
-  print "Welcome to OpenShift by Akhil";
+  print "Welcome to OpenShift by Akhil - To an amazing day!!";
 
 ?>
